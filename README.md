@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hello guy!
 
-<!--
-**https-dre/https-dre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Developer. Studying Technician in Systems Development at Etec of Taboão Da Serra - São Paulo, Brazil.
 
-Here are some ideas to get you started:
+I am currently workin in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/https-dre/square-kernel">Square Kernel</a>
+
+
+## Contats
+Reach me in:
+
+<a href="dre2728"><img src="https://skillicons.dev/icons?i=discord" /></a>
+<a href="https://x.com/dre_bash"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+
+
+## My Skills
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,c,rust,bash,nodejs,typescript,java,docker,mysql,git" />
+  </a>
+
+
+## Stats
+<div>
+<a href="https://github.com/https-dre">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-dre&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=https-dre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
