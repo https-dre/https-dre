@@ -10,8 +10,10 @@ I am currently workin in:
 ## Contats
 Reach me in:
 
-<a href="dre2728"><img src="https://skillicons.dev/icons?i=discord" /></a>
+Discord: *dre2728*
+
 <a href="https://x.com/dre_bash"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://www.instagram.com/dre_dias00/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 
 
 ## My Skills
