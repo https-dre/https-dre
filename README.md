@@ -1,11 +1,7 @@
 ## Hello guy!
 
-I am a Software Developer. Studying Technician in Systems Development at Etec of Taboão Da Serra - São Paulo, Brazil.
-
-I am currently workin in:
-
-<a href="https://github.com/https-dre/square-kernel">Square Kernel</a>
-
+I am a Back-End Software developer, I create applications with Java and Node-Js with Typescript.
+But my hobby as a programmer is developing low-level software with languages like C. Currently my main hobby project is <a href="https://github.com/https-dre/square-kernel">Square-Os</a>, developed with C and Assembly.
 
 ## Contats
 Reach me in:
