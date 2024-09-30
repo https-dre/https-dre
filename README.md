@@ -15,13 +15,13 @@ Discord: *dre2728*
 ## My Skills
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,c,rust,bash,nodejs,typescript,java,docker,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=linux,c,rust,bash,nodejs,typescript,go,docker,mysql,git" />
   </a>
 
 
 ## Stats
 <div>
 <a href="https://github.com/https-dre">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-dre&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-dre&layout=donut&theme=dark&language-count=10"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=https-dre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
