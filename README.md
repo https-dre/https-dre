@@ -22,6 +22,6 @@ Discord: *dre2728*
 ## Stats
 <div>
 <a href="https://github.com/https-dre">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-dre&layout=donut&theme=dark&language-count=10"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-dre&layout=donut&theme=dark"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=https-dre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
