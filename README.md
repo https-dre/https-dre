@@ -6,7 +6,7 @@ But my hobby as a programmer is developing low-level software with languages lik
 ## Contats
 Reach me in:
 
-Discord: *dre2728*
+Discord: *https_dre*
 
 <a href="https://x.com/dre_bash"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://www.instagram.com/dre_dias00/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
