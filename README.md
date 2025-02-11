@@ -4,18 +4,15 @@ I am a Back-End Software developer, I create applications with Java and Node-Js 
 But my hobby as a programmer is developing low-level software with languages like C. Currently my main hobby project is <a href="https://github.com/https-dre/square-kernel">Square-Os</a>, developed with C and Assembly.
 
 ## Contats
-Reach me in:
+Reach me in X or Twitter.
 
-Discord: *https_dre*
-
-<a href="https://x.com/dre_bash"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://www.instagram.com/dre_dias00/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+E-mail: diaso.andre@outlook.com
 
 
 ## My Skills
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,c,rust,bash,nodejs,typescript,go,docker,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,mysql,c,go,nodejs,typescript" />
   </a>
 
 
