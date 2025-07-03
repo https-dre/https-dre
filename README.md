@@ -7,7 +7,7 @@ Seeking experience in the field of technology and software development, demonstr
 ## My Skills
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,mysql,c,go,nodejs,typescript" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,postgresql,c,go,nodejs,typescript,react" />
   </a>
 
 
