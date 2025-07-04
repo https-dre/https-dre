@@ -2,7 +2,7 @@
 
 Seeking experience in the field of technology and software development, demonstrating solid technical skills and expertise in the management and execution of collaborative projects. The role is based on thorough analysis of requirements and structured planning, with an emphasis on using agile methodologies and modern development practices to build robust and scalable solutions.
 
-[Laví](https://github.com/laundry-lavi) owner!
+[Laví](https://github.com/laundry-lavi) founder!
 
 ## My Skills
 
