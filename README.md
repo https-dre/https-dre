@@ -1,20 +1,12 @@
 ## Hello!
 
-Seeking experience in the field of technology and software development, demonstrating solid technical skills and expertise in the management and execution of collaborative projects. The role is based on thorough analysis of requirements and structured planning, with an emphasis on using agile methodologies and modern development practices to build robust and scalable solutions.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=https-dre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-[@Laví](https://github.com/laundry-lavi) founder!
+💻Back-End Developer! </br>
+🈺Looking for opportunities! </br>
 
-## My Skills
+Co-founder at [@Laví](https://github.com/laundry-lavi).
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,postgresql,c,go,nodejs,typescript,react" />
-  </a>
-
-
-
-## Stats
-<div>
-<a href="https://github.com/https-dre">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-dre&layout=donut&theme=dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=https-dre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:diaso.andre@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-dias00/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diaso.andre/)
