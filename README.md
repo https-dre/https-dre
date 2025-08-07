@@ -2,8 +2,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=https-dre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-💻Back-End Developer! </br>
-🈺Looking for opportunities! </br>
+
+💻 Back-End Developer! </br>
+🈺 Looking for opportunities! </br>
 
 Co-founder at [@Laví](https://github.com/laundry-lavi).
 
